@@ -28,3 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edacakmakk&" alt="edacakmakk" /></p>
 
+![snake animation](https://github.com/<seu edacakmakk>/<seu edacakmakk>/blob/output/github-contribution-grid-snake2.svg)
