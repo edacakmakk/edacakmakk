@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Eda</h1>
 <h3 align="center">Control and Automation Engineering Student</h3>
-<img align="right" alt="Coding" width="400" src="(https://i.pinimg.com/originals/3e/d1/1f/3ed11f403c894081c736de5ef48e399e.gif)">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/3e/d1/1f/3ed11f403c894081c736de5ef48e399e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edacakmakk&label=Profile%20views&color=0e75b6&style=flat" alt="edacakmakk" /> </p>
 
@@ -26,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edacakmakk&show_icons=true&locale=en" alt="edacakmakk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edacakmakk&" alt="edacakmakk" /></p>
+
